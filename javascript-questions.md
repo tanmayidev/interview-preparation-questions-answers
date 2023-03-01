@@ -1,0 +1,36 @@
+- What is EcmaScript in JavaScript?
+- What is difference between let, const and var?
+- What is spread operator, rest operator, default parameter?
+- What is deep copy and shallow copy in JavaScript?
+- What is promise, callback function, async await in JavaScript?
+- What is difference between promise and callback in JavaScript?
+- What is event bubbling and event capturing in JavaScript?
+- What is Higher Order Function in JavaScript?
+- Explain different two types of function in JavaScript
+- What is arrow function in JavaScript?
+- Why we use call, apply, bind method in JavaScript?
+- How many ways to create object in JavaScript?
+- What is prototype inheritance in JavaScript?
+- What is typescript?
+- What are the array method, string method?
+- What is difference between java and javascript?
+- What is throttling and debouncing in js?
+- What is Null and undefined in js?
+- What are the falsy values in js?
+- What is executing context, event loop, stack, call queue, microtask queue in js?
+- What is setTimeOut and setInterval in js?
+- What is object.seal and object.freeze in js?
+- What is difference between map and set in js?
+- What is WeakMap and Weakset in JavaScript?
+- What is sessionStorage, localStorage, cookie?
+- Write a program to sort an array
+- What is the use of json.stringify and json.parse() method in js?
+- What are map, filter and reduce in js?
+- What is generator function in js?
+- How to stop event propagation in js?
+- What is closure in js?
+- What is hoisting in js?
+- What is dead zone in js?
+- What is function currying in js?
+- What is mutation observer in js?
+- What is memoization in js? 
