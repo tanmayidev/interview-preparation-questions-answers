@@ -1,3 +1,124 @@
+[DOM related JS questions](https://www.thatjsdude.com/interview/dom.html)
+
+#### 1. Question
+```javascript
+const work = 'hello';
+word[1] = 'm';
+console.log(word);
+```
+
+<details>
+<summary>Answer</summary>
+<p>
+
+```hello```
+Strings are immutable.
+
+</p>
+</details>
+
+---------------
+
+#### 2. Question
+```javascript
+console.log(a);
+
+const a = 1;
+```
+
+<details>
+<summary>Answer</summary>
+<p>
+
+
+</p>
+</details>
+
+---------------
+
+#### 3. Question
+Explain Currying and Hoisting in Javascript.
+
+<details>
+<summary>Answer</summary>
+<p>
+
+
+</p>
+</details>
+
+---------------
+
+#### 4. Question
+Different between Typescript and Javascript
+
+<details>
+<summary>Answer</summary>
+<p>
+
+
+</p>
+</details>
+
+---------------
+
+
+
+#### 5. Question
+```html
+<body>
+    <script src="index.js">
+    <div>
+    </div>
+</body>
+
+```
+What will happen to DOM tree if some issue happens in script tag?
+<details>
+<summary>Answer</summary>
+<p>
+
+
+</p>
+</details>
+
+---------------
+
+
+
+
+#### 6. Question
+Explain promise chaining in javascript?
+<details>
+<summary>Answer</summary>
+<p>
+
+
+</p>
+</details>
+
+---------------
+
+
+#### 7. Question
+How does javascript figures out that a promise is resolved?
+<details>
+<summary>Answer</summary>
+<p>
+
+
+</p>
+</details>
+
+---------------
+
+
+
+
+
+
+
+
 - What is EcmaScript in JavaScript?
 - What is difference between let, const and var?
 - What is spread operator, rest operator, default parameter?
@@ -34,3 +155,4 @@
 - What is function currying in js?
 - What is mutation observer in js?
 - What is memoization in js? 
+- What is  Debounce and Throttle in js?

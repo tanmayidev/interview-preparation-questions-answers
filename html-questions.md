@@ -1,3 +1,30 @@
+#### 1. Question
+```html
+<style>
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+</style>
+<body>
+    <div class="blue red"></div>
+    <div class="red blue"></div>
+</body>
+```
+What will be the background color is both the divs?
+<details>
+<summary>Answer</summary>
+<p>
+
+
+</p>
+</details>
+
+---------------
+
+
 - What is <!Doctype html> in Html5?
 - What is difference between div and span in Html?
 - What is semantic tags and non-semantic tags in Html?
