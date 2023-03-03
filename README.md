@@ -2,6 +2,10 @@
 - Compilation of questions and answers for quick reference for interviews
 ----
 
+## Reading Resources
+
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 ## Frontend Practice Resources
 
 ### CSS
